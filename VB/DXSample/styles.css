@@ -1,0 +1,17 @@
+﻿.centerText {
+    text-align: center;
+}
+
+.header {
+    color: dimgray;
+}
+
+.error {
+    background-color: #FFDDD5;
+    border: 2px solid red;
+}
+
+.success {
+    background-color: #E8FFE8;
+    border: 2px solid forestgreen;
+}
